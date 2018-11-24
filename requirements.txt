@@ -1,17 +1,12 @@
-Package         Version
---------------- -------
-Click           7.0    
-Flask           1.0.2  
-itsdangerous    1.1.0  
-Jinja2          2.10   
-MarkupSafe      1.1.0  
-numpy           1.15.4 
-pandas          0.23.4 
-pip             18.1   
-python-dateutil 2.7.5  
-pytz            2018.7 
-setuptools      40.6.2 
-six             1.11.0 
-Werkzeug        0.14.1 
-wheel           0.32.3 
-xlrd            1.1.0  
+Click==7.0
+Flask==1.0.2
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.0
+numpy==1.15.4
+pandas==0.23.4
+python-dateutil==2.7.5
+pytz==2018.7
+six==1.11.0
+Werkzeug==0.14.1
+xlrd==1.1.0
